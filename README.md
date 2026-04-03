@@ -9,3 +9,20 @@ ODS 6: Agua Limpia y Saneamiento
 ODS 9: Industria, Innovación e Infraestructura
 ODS 11: Ciudades y Comunidades Sostenibles
 ODS 13: Acción por el Clima
+
+Nos interesa trabajar con los siguientes objetivos de Desarrollo Sostenible. 
+             
+ 
+
+Integrantes del Equipo
+
+ Foto	Integrantes	Rol	Intereses
+ 	Camila Tapia Paucar	Líder de equipo	Innovación social, Capacidad de organización 
+ 	Danna Vidal Rivera	Responsable de	Indagadora, Crítica, diseñadora y creativa.
+ 	Eusmaría Garay Castillo	Encargada de Documentación 	Diseño de documentos y procesamiento de datos o archivos.
+ 	Karlo Morales Moreno	Programación	Análisis estadístico de datos y Técnicas de simulación. 
+
+……………………………………………………………………………………………………………
+
+Resumen final
+Este es un resumen de quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
