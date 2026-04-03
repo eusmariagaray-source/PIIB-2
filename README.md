@@ -16,12 +16,9 @@ Nos interesa trabajar con los siguientes objetivos de Desarrollo Sostenible.
 
 Integrantes del Equipo
 
- Foto	Integrantes	Rol	Intereses
- 	Camila Tapia Paucar	Líder de equipo	Innovación social, Capacidad de organización 
- 	Danna Vidal Rivera	Responsable de	Indagadora, Crítica, diseñadora y creativa.
- 	Eusmaría Garay Castillo	Encargada de Documentación 	Diseño de documentos y procesamiento de datos o archivos.
- 	Karlo Morales Moreno	Programación	Análisis estadístico de datos y Técnicas de simulación. 
+<img width="765" height="453" alt="image" src="https://github.com/user-attachments/assets/a81d4018-3a98-4cc7-8ce7-050d8469cb0b" />
 
+ 
 ……………………………………………………………………………………………………………
 
 Resumen final
