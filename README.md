@@ -1,21 +1,25 @@
 # PIIB-2
 Bienvenidos al repositorio del Grupo 2 del curso de "Procesos de innovación en ingeniería"
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
-
+------------------------------------------------------------------------------------------
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
-
+------------------------------------------------------------------------------------------
 ODS 3: Salud y Bienestar
 ODS 6: Agua Limpia y Saneamiento
 ODS 9: Industria, Innovación e Infraestructura
 ODS 11: Ciudades y Comunidades Sostenibles
 ODS 13: Acción por el Clima
-
+----------------------------------------------------------------------------------------
 Nos interesa trabajar con los siguientes objetivos de Desarrollo Sostenible. 
+grupo de trabajo
+-----------------------------------------------------------------------------------------
+<img width="380" height="285" alt="image" src="https://github.com/user-attachments/assets/42c276c8-45a2-4c2a-8f30-c19300b90a55" />
+
              
  
-
+------------------------------------------------------------------------------------------
 Integrantes del Equipo
-
+-----------------------------------------------------------------------------------------
 <img width="765" height="453" alt="image" src="https://github.com/user-attachments/assets/a81d4018-3a98-4cc7-8ce7-050d8469cb0b" />
 
  
