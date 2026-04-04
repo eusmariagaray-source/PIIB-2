@@ -1,29 +1,40 @@
-# PIIB-2
-Bienvenidos al repositorio del Grupo 2 del curso de "Procesos de innovación en ingeniería"
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
-------------------------------------------------------------------------------------------
-Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
-------------------------------------------------------------------------------------------
-ODS 3: Salud y Bienestar
-ODS 6: Agua Limpia y Saneamiento
-ODS 9: Industria, Innovación e Infraestructura
-ODS 11: Ciudades y Comunidades Sostenibles
-ODS 13: Acción por el Clima
-----------------------------------------------------------------------------------------
-Nos interesa trabajar con los siguientes objetivos de Desarrollo Sostenible. 
-grupo de trabajo
------------------------------------------------------------------------------------------
-<img width="380" height="285" alt="image" src="https://github.com/user-attachments/assets/42c276c8-45a2-4c2a-8f30-c19300b90a55" />
+# Equipo 02 - Procesos de Innovación en Ingeniería
+### Carrera de Ingeniería Biomédica  
+**Universidad Peruana Cayetano Heredia**
 
-             
- 
-------------------------------------------------------------------------------------------
-Integrantes del Equipo
------------------------------------------------------------------------------------------
-<img width="765" height="453" alt="image" src="https://github.com/user-attachments/assets/a81d4018-3a98-4cc7-8ce7-050d8469cb0b" />
+---
 
- 
-……………………………………………………………………………………………………………
+## 🌍 Descripción del Equipo 
+Somos el **Equipo 2** del curso **Procesos de Innovación en Ingeniería 2026-1**, conformado por estudiantes de la carrera de Ingeniería Biomédica.
+Nuestro objetivo es desarrollar proyectos innovadores que permitan solucionar de forma efectiva las problemáticas de impacto social, tecnológico y ambiental. 
 
-Resumen final
-Este es un resumen de quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
+- ODS 3: Salud y Bienestar  
+- ODS 6: Agua Limpia y Saneamiento  
+- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 11: Ciudades y Comunidades Sostenibles  
+- ODS 13: Acción por el Clima  
+
+---
+
+## 📸 Fotografía del Equipo  
+<p align="center">
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/eusmariagaray-source/PIIB-2/blob/main/Recursos/Im%C3%A1genes/Grupo.jpeg" />
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
+
+---
+
+## 👥 Integrantes del Equipo  
+
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+| <img src="Recursos/Imágenes/Camila Tapia.jpg" width="90"/> | **Camila Tapia Paucar** | Líder del equipo | Innovación social y capacidad de organización  |
+| <img src="Recursos/Imágenes/Danna Vidal.jpg" width="90"/> | **Danna Vidal Rivera** | Responsable de investigación | Indagadora, Crítica, diseñadora y creativa |
+| <img src="Recursos/Imágenes/Eusmaria Garay.png" width="90"/> | **Eusmaría Garay Castillo** | Encargada de Documentación | Diseño de documentos y procesamiento de datos o archivos |
+| <img src="Recursos/Imágenes/Karlo Morales.png" width="90"/> | **Karlo Morales Moreno** | Programación | Análisis estadístico de datos y técnicas de simulación  |
+
+---
+
+## 📌 Resumen Final  
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
