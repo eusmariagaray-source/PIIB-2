@@ -20,7 +20,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía de Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/eusmariagaray-source/PIIB-2/blob/main/Recursos/Im%C3%A1genes/Grupo.jpeg" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
 ---
